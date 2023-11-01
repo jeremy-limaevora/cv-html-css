@@ -1,0 +1,19 @@
+#info {
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    font-size: 20px;
+}
+
+html {background-image: url("https://previews.123rf.com/images/bbbaaaaz/bbbaaaaz1607/bbbaaaaz160700001/61569391-fond-moderne-avec-style-plexus-parfait-pour-le-site-web-ou-des-banni%C3%A8res-fonds-ou-comme-un-fond-d.jpg");
+ background-size: cover;
+background-repeat: no-repeat;
+background-position: center ;
+font-family: sans-serif;
+font-size: 20px;
+}
+
+h1{font-style: italic;}
+
+b{font-style: italic;}
+
